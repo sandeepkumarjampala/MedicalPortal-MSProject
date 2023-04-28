@@ -6,7 +6,7 @@ import { CssBaseline } from "@mui/material";
 // HOMEPAGE
 import Home from "./home/home";
 import LoggedIn from "./home/loggedIn";
-// DOCTOR'S PAGES
+
 import Doctor_Signup from "./doctor/signup";
 import Doctor_Signin from "./doctor/signin";
 import Doctor_Dashboard from "./doctor/dashboard/dashboard";
